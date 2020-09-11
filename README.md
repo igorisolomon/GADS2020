@@ -32,7 +32,7 @@ touch infraclass/config
 
 echo INFRACLASS_REGION=$INFRACLASS_REGION >> ~/infraclass/config
 
-INFRACLASS_PROJECT_ID=[YOUR_PROJECT_ID]
+INFRACLASS_PROJECT_ID=qwiklabs-gcp-04-cbe77c6459db
 
 echo INFRACLASS_PROJECT_ID=$INFRACLASS_PROJECT_ID >> ~/infraclass/config
 
